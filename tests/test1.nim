@@ -10,7 +10,7 @@ discard """
   targets: "c cpp objc js"
 """
 
-import ../src/funcblock
+import ../funcblock
 
 proc main: string =
   let a = funcblock(int):

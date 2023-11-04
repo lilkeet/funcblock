@@ -2,9 +2,8 @@
 
 version       = "0.1.0"
 author        = "lilkeet"
-description   = "Implements a 'funcblock'; that is, a block that returns a value with no side effects."
+description   = "Implements a block that returns a value with no side effects."
 license       = "WTFPL"
-srcDir        = "src"
 
 
 # Dependencies
